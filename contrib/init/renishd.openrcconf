@@ -1,0 +1,26 @@
+# /etc/conf.d/renishd: config file for /etc/init.d/renishd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/renish/renish.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/renishd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/renishd.pid"
+
+# Where to write renishd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/renishd"
+
+# User and group to own renishd process
+#BITCOIND_USER="renish"
+#BITCOIND_GROUP="renish"
+
+# Path to renishd executable
+#BITCOIND_BIN="/usr/bin/renishd"
+
+# Nice value to run renishd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Renish
+Comment=Renish P2P Cryptocurrency
+Comment[fr]=Renish, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Renish, eşten eşe kriptografik sanal para birimi
+Exec=renish-qt %u
+Terminal=false
+Type=Application
+Icon=renish128
+MimeType=x-scheme-handler/renish;
+Categories=Office;Finance;
+Name[en_US]=renish-qt.desktop

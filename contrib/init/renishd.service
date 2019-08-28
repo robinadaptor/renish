@@ -1,0 +1,26 @@
+[Unit]
+Description=Renish's distributed currency daemon
+After=network.target
+
+[Service]
+User=renish
+Group=renish
+
+Type=forking
+PIDFile=/var/lib/renishd/renishd.pid
+
+ExecStart=/usr/bin/renishd -daemon -pid=/var/lib/renishd/renishd.pid \
+          -conf=/etc/renish/renish.conf -datadir=/var/lib/renishd
+
+ExecStop=-/usr/bin/renish-cli -conf=/etc/renish/renish.conf \
+         -datadir=/var/lib/renishd stop
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

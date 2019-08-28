@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/renish_bg.qm</file>
+        <file alias="ca">locale/renish_ca.qm</file>
+        <file alias="da">locale/renish_da.qm</file>
+        <file alias="de">locale/renish_de.qm</file>
+        <file alias="en">locale/renish_en.qm</file>
+        <file alias="en_US">locale/renish_en_US.qm</file>
+        <file alias="es">locale/renish_es.qm</file>
+        <file alias="fi">locale/renish_fi.qm</file>
+        <file alias="fr_FR">locale/renish_fr_FR.qm</file>	
+        <file alias="fr">locale/renish_fr.qm</file>
+        <file alias="it">locale/renish_it.qm</file>
+        <file alias="ja">locale/renish_ja.qm</file>
+        <file alias="pl">locale/renish_pl.qm</file>
+        <file alias="pt">locale/renish_pt.qm</file>
+        <file alias="ro_RO">locale/renish_ro_RO.qm</file>
+        <file alias="ru">locale/renish_ru.qm</file>
+        <file alias="sk">locale/renish_sk.qm</file>
+        <file alias="sv">locale/renish_sv.qm</file>
+        <file alias="vi">locale/renish_vi.qm</file>
+        <file alias="zh_CN">locale/renish_zh_CN.qm</file>
+        <file alias="zh_TW">locale/renish_zh_TW.qm</file>
+    </qresource>
+</RCC>
