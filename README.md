@@ -32,7 +32,9 @@ explorer : [`https://robinadaptor.github.io/renish/explorer`](https://robinadapt
 paper wallet : [`https://robinadaptor.github.io/renish/wallet`](https://robinadaptor.github.io/renish/wallet)   
 swap bot : [`https://robinadaptor.github.io/swapbot`](https://robinadaptor.github.io/swapbot)  
 coinlib : [`https://coinlib.io/coin/RNSH/Renish`](https://coinlib.io/coin/RNSH/Renish)  
-exchanges : [`https://www.enmanet.com/market/BTC-RNSH`](https://www.enmanet.com/market/BTC-RNSH)
+coingecko : [`https://www.coingecko.com/en/coins/renish`](https://www.coingecko.com/en/coins/renish)  
+coinpaprika : [`https://coinpaprika.com/coin/rnsh-renish`](https://coinpaprika.com/coin/rnsh-renish)  
+exchanges : [`https://www.enmanet.com/market/BTC-RNSH`](https://www.enmanet.com/market/BTC-RNSH)  
   
 [`wallet`](https://github.com/robinadaptor/renish/releases) [`source`](https://github.com/robinadaptor/renish) [`vote`](https://robinadaptor.github.io/renish/vote)  [`discord`](https://discord.gg/zYvFFJU) [`twitter`](https://twitter.com/robinadaptor) [`bitcointalk`](https://bitcointalk.org/index.php?topic=5175349)     
   

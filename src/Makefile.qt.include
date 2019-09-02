@@ -240,6 +240,7 @@ RES_ICONS = \
   qt/res/icons/tx_input.png \
   qt/res/icons/tx_output.png \
   qt/res/icons/tx_mined.png \
+  qt/res/icons/tx_mn.png \
   qt/res/icons/unit_renish.png \
   qt/res/icons/unit_mrenish.png \
   qt/res/icons/unit_urenish.png \
