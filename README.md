@@ -9,8 +9,8 @@ Renish is a 100% pure POS system. And Renish is operated by community.
   
 * asset symbol : RNSH  
 * hashing algorithm : Quark  
-* consensus algorithm : (adaptive) proof of stake  
-* 7000 RNSH required asset for masternode  
+* consensus algorithm : (adaptive) proof of stake   
+* 7000 RNSH required asset for masternode  [`node setting`](https://github.com/robinadaptor/help/masternode.md)     
 * blocktime : 60 sec  
 * port : 30001, rpcport : 31001  
 * genesis date : 21th Jun, 2018  
@@ -30,12 +30,11 @@ Renish is a 100% pure POS system. And Renish is operated by community.
 website : [`https://robinadaptor.github.io/renish`](https://robinadaptor.github.io/renish)      
 explorer : [`https://robinadaptor.github.io/renish/explorer`](https://robinadaptor.github.io/renish/explorer)   
 paper wallet : [`https://robinadaptor.github.io/renish/wallet`](https://robinadaptor.github.io/renish/wallet)   
-swap bot : [`https://robinadaptor.github.io/swapbot`](https://robinadaptor.github.io/swapbot)  
+swap bot : [`https://robinadaptor.github.io/swapbot`](https://robinadaptor.github.io/swapbot)   
+exchange : [`https://robinadaptor.github.io/chamber`](https://robinadaptor.github.io/chamber)  
+exchanges : [`https://www.enmanet.com/market/BTC-RNSH`](https://www.enmanet.com/market/BTC-RNSH) (closed)  
 coinlib : [`https://coinlib.io/coin/RNSH/Renish`](https://coinlib.io/coin/RNSH/Renish)  
-coingecko : [`https://www.coingecko.com/en/coins/renish`](https://www.coingecko.com/en/coins/renish)  
-coinpaprika : [`https://coinpaprika.com/coin/rnsh-renish`](https://coinpaprika.com/coin/rnsh-renish)  
-exchanges : [`https://www.enmanet.com/market/BTC-RNSH`](https://www.enmanet.com/market/BTC-RNSH)  
-  
+
 [`wallet`](https://github.com/robinadaptor/renish/releases) [`source`](https://github.com/robinadaptor/renish) [`vote`](https://robinadaptor.github.io/renish/vote)  [`discord`](https://discord.gg/zYvFFJU) [`twitter`](https://twitter.com/robinadaptor) [`bitcointalk`](https://bitcointalk.org/index.php?topic=5175349)     
   
 ***
@@ -61,7 +60,8 @@ exchanges : [`https://www.enmanet.com/market/BTC-RNSH`](https://www.enmanet.com/
 2018, 19th Oct, Renish blockchain is terminated or disappeared gradually.  
 2019, Aug, Robin Project regenerate Renish blockchain for airdrop service from 170386 block.  
 2019, Aug, Now Renish is officially redeveloped and operated by Robin Project.  
-2019, Aug, Renish Core version 1.5.0.0 is released
+2019, Aug, Renish Core version 1.5.0.0 is released   
+2019, Sep, Enmanet exchange on which Renish is listed is closed   
 
 ***
 ## Donations 
