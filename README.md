@@ -10,7 +10,7 @@ Renish is a 100% pure POS system. And Renish is operated by community.
 * asset symbol : RNSH  
 * hashing algorithm : Quark  
 * consensus algorithm : (adaptive) proof of stake   
-* 7000 RNSH required asset for masternode  [`node setting`](https://github.com/robinadaptor/help/masternode.md)     
+* 7000 RNSH required asset for masternode  [`node setting`](https://github.com/robinadaptor/help/blob/master/masternode.md)     
 * blocktime : 60 sec  
 * port : 30001, rpcport : 31001  
 * genesis date : 21th Jun, 2018  
