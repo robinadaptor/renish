@@ -59,9 +59,11 @@ coinlib : [`https://coinlib.io/coin/RNSH/Renish`](https://coinlib.io/coin/RNSH/R
 2018, 21th June, Renish team (unknown) opened the blockchain.  
 2018, 19th Oct, Renish blockchain is terminated or disappeared gradually.  
 2019, Aug, Robin Project regenerate Renish blockchain for airdrop service from 170386 block.  
-2019, Aug, Now Renish is officially redeveloped and operated by Robin Project.  
-2019, Aug, Renish Core version 1.5.0.0 is released   
+2019, Aug, Renish is officially redeveloped and operated by Robin Project.  
+2019, Aug, Renish Core version 1.5.0.0 is released  
+2019, Aug, Renish is listed on Enmanet exchange.   
 2019, Sep, Enmanet exchange on which Renish is listed is closed   
+2019, Nov, Renish is listed on Chamber Ex.  
 
 ***
 ## Donations 
