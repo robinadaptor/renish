@@ -35,7 +35,7 @@ exchange : [`https://robinadaptor.github.io/chamber`](https://robinadaptor.githu
 exchanges : [`https://www.enmanet.com/market/BTC-RNSH`](https://www.enmanet.com/market/BTC-RNSH) (closed)  
 coinlib : [`https://coinlib.io/coin/RNSH/Renish`](https://coinlib.io/coin/RNSH/Renish)  
 
-[`wallet`](https://github.com/robinadaptor/renish/releases) [`source`](https://github.com/robinadaptor/renish) [`vote`](https://robinadaptor.github.io/renish/vote)  [`discord`](https://discord.gg/zYvFFJU) [`twitter`](https://twitter.com/robinadaptor) [`bitcointalk`](https://bitcointalk.org/index.php?topic=5175349)     
+[`wallet`](https://github.com/robinadaptor/renish/releases) [`source`](https://github.com/robinadaptor/renish) [`vote`](https://robinadaptor.github.io/renish/vote)  [`discord`](https://discord.gg/zYvFFJU) [`twitter`](https://twitter.com/robinadaptor)    
   
 ***
 ## Reward Policy  
