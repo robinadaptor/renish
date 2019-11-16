@@ -32,7 +32,6 @@ explorer : [`https://robinadaptor.github.io/renish/explorer`](https://robinadapt
 paper wallet : [`https://robinadaptor.github.io/renish/wallet`](https://robinadaptor.github.io/renish/wallet)   
 swap bot : [`https://robinadaptor.github.io/swapbot`](https://robinadaptor.github.io/swapbot)   
 exchange : [`https://robinadaptor.github.io/chamber`](https://robinadaptor.github.io/chamber)  
-exchanges : [`https://www.enmanet.com/market/BTC-RNSH`](https://www.enmanet.com/market/BTC-RNSH) (closed)  
 coinlib : [`https://coinlib.io/coin/RNSH/Renish`](https://coinlib.io/coin/RNSH/Renish)  
 
 [`wallet`](https://github.com/robinadaptor/renish/releases) [`source`](https://github.com/robinadaptor/renish) [`vote`](https://robinadaptor.github.io/renish/vote)  [`discord`](https://discord.gg/zYvFFJU) [`twitter`](https://twitter.com/robinadaptor)    
@@ -61,8 +60,6 @@ coinlib : [`https://coinlib.io/coin/RNSH/Renish`](https://coinlib.io/coin/RNSH/R
 2019, Aug, Robin Project regenerate Renish blockchain for airdrop service from 170386 block.  
 2019, Aug, Renish is officially redeveloped and operated by Robin Project.  
 2019, Aug, Renish Core version 1.5.0.0 is released  
-2019, Aug, Renish is listed on Enmanet exchange.   
-2019, Sep, Enmanet exchange on which Renish is listed is closed   
 2019, Nov, Renish is listed on Chamber Ex.  
 
 ***
