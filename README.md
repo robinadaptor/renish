@@ -33,6 +33,7 @@ paper wallet : [`https://robinadaptor.github.io/renish/wallet`](https://robinada
 swap bot : [`https://robinadaptor.github.io/swapbot`](https://robinadaptor.github.io/swapbot)   
 exchange : [`https://robinadaptor.github.io/chamber`](https://robinadaptor.github.io/chamber)  
 coinlib : [`https://coinlib.io/coin/RNSH/Renish`](https://coinlib.io/coin/RNSH/Renish)  
+somacher-invest : [`https://somacher-invest.ch/renish-rnsh/`](https://somacher-invest.ch/renish-rnsh/)   
 
 [`wallet`](https://github.com/robinadaptor/renish/releases) [`source`](https://github.com/robinadaptor/renish) [`vote`](https://robinadaptor.github.io/renish/vote)  [`discord`](https://discord.gg/zYvFFJU) [`twitter`](https://twitter.com/robinadaptor)    
   
