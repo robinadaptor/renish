@@ -64,7 +64,7 @@ somacher-invest : [`https://somacher-invest.ch/renish-rnsh/`](https://somacher-i
 2019, Nov, Renish is listed on Chamber Ex.  
 
 ***
-## System Contribution  
+## Contribution  
 
 This system is the first POS blockchain systems to be an airdrop system based on blockchain. And this system has enabled the permanent preservation of digital assets. It is the system that preserved and resurrected the digital asset using blockchain hibernating for one year.   
 
