@@ -66,7 +66,7 @@ somacher-invest : [`https://somacher-invest.ch/renish-rnsh/`](https://somacher-i
 ***
 ## Contribution  
 
-This system is <font color="red">the first POS blockchain systems to be an airdrop system based on blockchain</font>. And this system has enabled the permanent preservation of digital assets. It is the system that preserved and resurrected the digital asset using blockchain hibernating for one year (about 10 months).   
+This system is `the first POS blockchain systems to be an airdrop system based on blockchain`. And this system has enabled the permanent preservation of digital assets. It is the system that preserved and resurrected the digital asset using blockchain hibernating for one year (about 10 months).   
 
 This ensures the permanent preservation of blockchain digital assets and helps protect against counterfeiting of assets by proving between blockchain holders.  
 
