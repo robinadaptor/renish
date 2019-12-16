@@ -64,6 +64,13 @@ somacher-invest : [`https://somacher-invest.ch/renish-rnsh/`](https://somacher-i
 2019, Nov, Renish is listed on Chamber Ex.  
 
 ***
+## System Contribution  
+
+This system is the first POS blockchain systems to be an airdrop system based on blockchain. And this system has enabled the permanent preservation of digital assets. It is the system that preserved and resurrected the digital asset using blockchain hibernating for one year.   
+
+This ensures the permanent preservation of blockchain digital assets and helps protect against counterfeiting of assets by proving between blockchain holders.  
+
+***
 ## Donations 
   
 Robin project manages and develops cryptocurrency coins. For many community members, Robin project provides more quality applications and leads the blockchain culture soundly. All development is done as a donation, and when a certain donation is completed, we will gradually develop applications for coin holders. Thank you.  
